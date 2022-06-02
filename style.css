@@ -1,9 +1,9 @@
 body {
 	background:#e9c7ff;
 	font-size: 22px;
-	color:grey;
+	color:rgb(0, 0, 0);
 	font-family: 'Caveat Brush', cursive;
-	background-image: linear-gradient(to bottom, red,#e9c7ff);
+	background-image: linear-gradient(to bottom, rgba(255, 0, 179, 0.342),#e9c7ff);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
