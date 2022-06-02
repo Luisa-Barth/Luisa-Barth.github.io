@@ -1,0 +1,22 @@
+body {
+	background:#e9c7ff;
+	font-size: 22px;
+	color:grey;
+	font-family: 'Caveat Brush', cursive;
+	background-image: linear-gradient(to bottom, red,#e9c7ff);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	text-align:center;
+	color:black;
+	font-family: 'Caveat Brush', cursive;
+}
+img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-reflect: below 0px linear-gradient(to bottom
+	
+}
