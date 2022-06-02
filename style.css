@@ -1,9 +1,9 @@
 body {
-	background:#e9c7ff;
+	background:#fc97d2;
 	font-size: 22px;
 	color:rgb(0, 0, 0);
 	font-family: 'Caveat Brush', cursive;
-	background-image: linear-gradient(to bottom, rgba(255, 0, 179, 0.342),#e9c7ff);
+	background-image: linear-gradient(to bottom, rgba(255, 0, 179, 0.342),#a260c0);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -19,4 +19,16 @@ img{
 	margin-right: auto;
 	-webkit-box-reflect: below 0px linear-gradient(to bottom
 	
+}
+
+a{
+	color:slateblue;
+}
+
+a:hover{
+	color:rgb(127, 255, 212);
+}
+
+a:visited{
+	color:crimson;
 }
